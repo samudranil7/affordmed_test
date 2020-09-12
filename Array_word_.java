@@ -1,5 +1,5 @@
 import java.util.*;
-public class HelloWorld
+public class Array_word
 {
     public static void main(String []args)
     {
